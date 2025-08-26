@@ -1,0 +1,5 @@
+{
+  "name": "Glock Glock PDF Analyzer",
+  "description": "An AI-powered tool to analyze text and images from PDF documents. It provides summaries, generates insightful questions, and finds related content on the internet to give you a comprehensive understanding of your document.",
+  "requestFramePermissions": []
+}
